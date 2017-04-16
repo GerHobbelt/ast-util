@@ -21,7 +21,7 @@
     "macros"
   ],
   "author": "Brian Donovan",
-  "license": "Apache 2",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/eventualbuddha/ast-util/issues"
   },
