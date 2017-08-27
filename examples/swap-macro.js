@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-var recast = require('recast');
+var recast = require('@gerhobbelt/recast');
 var util = require('../lib');
 var types = util.types;
 var n = types.namedTypes;

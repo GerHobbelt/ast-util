@@ -2,7 +2,7 @@
 
 var util = require('../lib');
 
-var recast = require('recast');
+var recast = require('@gerhobbelt/recast');
 var esprima = require('esprima-fb');
 var types = recast.types;
 var n = types.namedTypes;
